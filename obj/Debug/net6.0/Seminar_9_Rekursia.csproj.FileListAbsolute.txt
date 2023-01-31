@@ -1,0 +1,15 @@
+C:\Users\acer\Desktop\Seminar_9_Rekursia\bin\Debug\net6.0\Seminar_9_Rekursia.exe
+C:\Users\acer\Desktop\Seminar_9_Rekursia\bin\Debug\net6.0\Seminar_9_Rekursia.deps.json
+C:\Users\acer\Desktop\Seminar_9_Rekursia\bin\Debug\net6.0\Seminar_9_Rekursia.runtimeconfig.json
+C:\Users\acer\Desktop\Seminar_9_Rekursia\bin\Debug\net6.0\Seminar_9_Rekursia.dll
+C:\Users\acer\Desktop\Seminar_9_Rekursia\bin\Debug\net6.0\Seminar_9_Rekursia.pdb
+C:\Users\acer\Desktop\Seminar_9_Rekursia\obj\Debug\net6.0\Seminar_9_Rekursia.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\Seminar_9_Rekursia\obj\Debug\net6.0\Seminar_9_Rekursia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\Seminar_9_Rekursia\obj\Debug\net6.0\Seminar_9_Rekursia.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\Seminar_9_Rekursia\obj\Debug\net6.0\Seminar_9_Rekursia.AssemblyInfo.cs
+C:\Users\acer\Desktop\Seminar_9_Rekursia\obj\Debug\net6.0\Seminar_9_Rekursia.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\Seminar_9_Rekursia\obj\Debug\net6.0\Seminar_9_Rekursia.dll
+C:\Users\acer\Desktop\Seminar_9_Rekursia\obj\Debug\net6.0\refint\Seminar_9_Rekursia.dll
+C:\Users\acer\Desktop\Seminar_9_Rekursia\obj\Debug\net6.0\Seminar_9_Rekursia.pdb
+C:\Users\acer\Desktop\Seminar_9_Rekursia\obj\Debug\net6.0\Seminar_9_Rekursia.genruntimeconfig.cache
+C:\Users\acer\Desktop\Seminar_9_Rekursia\obj\Debug\net6.0\ref\Seminar_9_Rekursia.dll
